@@ -118,13 +118,13 @@ problematica:
 - tiene q acceder a un servicio externo elaborado por nosotros
 - tiene q acceder a un servicio externo de 3eros
 - tiene que almacenar informacion local en el dispositivo
-- compatible con la metafora de Material Design  . filosofia de diseño q aplica para desarrollo web y movil
+- compatible con la metafora de Material Design  . filosofia de diseÃ±o q aplica para desarrollo web y movil
 - aceptar el orientacion del dispositivo
 - tiene q soportar como base API 19 por lo menos
 - User experience : proceso need finding - tienen q explorar el concepto y validar con pontenciales usuarios, investigar mercado, analisis e identificacion de User personas: representacion ficticea de un individuo del segmento objetivo al q va dirigido el servicio
 
 el segmento A: 
-por cada tipo de pérsona se crea un User Journey 
+por cada tipo de pÃ©rsona se crea un User Journey 
 https://uxpressia.com/
 userpersona : estudiantes
 userpersona2: profesores
